@@ -26,7 +26,7 @@ The (General) Background Removal API is as simple as it goes. It calculates a po
 You can use it in your image processing apps, quickly make collages with it, apply it to social media apps and more.
 
 <div align="center">
-<img width="600" src="https://storage.googleapis.com/api4ai-static/rapidapi/bg_removal_1.png"/>
+<img width="600" src="https://storage.googleapis.com/api4ai-static/visuals/bg_removal_1.png"/>
 </div>
 
 
