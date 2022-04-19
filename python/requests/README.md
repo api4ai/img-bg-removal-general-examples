@@ -1,6 +1,6 @@
-# API4AI background removal
+# API4AI background removal sample
 
-This directory contains a minimalistic sample that sends requests to the API4AI Brand Recognition API.
+This directory contains a minimalistic sample that sends requests to the API4AI Background Removal API.
 The sample is implemented in `python` using [requests](https://pypi.org/project/requests/) module.
 
 
