@@ -1,6 +1,6 @@
 # API4AI background removal sample
 
-This directory contains a minimalistic sample that sends requests to the API4AI background removal API.
+This directory contains a minimalistic sample that sends requests to the API4AI Background Removal API.
 The sample is implemented in `python` using [aiohttp](https://pypi.org/project/aiohttp/) module.
 
 
