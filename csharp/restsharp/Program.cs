@@ -30,11 +30,11 @@ Dictionary<String, String> headers = new Dictionary<String, String>();
 
 switch (MODE) {
     case "demo":
-        url = $"https://demo.api4ai.cloud/img-bg-removal/v1/general/results";
+        url = "https://demo.api4ai.cloud/img-bg-removal/v1/results";
         headers.Add("A4A-CLIENT-APP-ID", "sample");
         break;
     case "rapidapi":
-        url = $"https://background-removal4.p.rapidapi.com/v1/results";
+        url = "https://background-removal4.p.rapidapi.com/v1/results";
         headers.Add("X-RapidAPI-Key", RAPIDAPI_KEY);
         break;
     default:
