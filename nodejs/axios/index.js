@@ -31,7 +31,7 @@ const OPTIONS = {
 }
 
 // Parse args: path or URL to image.
-const image = process.argv[2] || 'https://storage.googleapis.com/api4ai-static/samples/img-bg-removal-3.jpg'
+const image = process.argv[2] || 'https://static.api4.ai/samples/img-bg-removal-3.jpg'
 
 // Preapare request: form.
 const form = new FormData()
